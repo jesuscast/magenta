@@ -7,6 +7,8 @@ This is a quick fix to google's magenta (https://github.com/tensorflow/magenta) 
 ## Usage
 First initialize
 ```
+git clone git@github.com:jesuscast/magenta.git
+cd magenta
 make init
 source ./env/bin/activate
 ```
